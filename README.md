@@ -49,3 +49,8 @@ It should go without saying that if you use a specific hotkey that you may want 
 (Warning: You can set the same key for two or more different hotkeys, which will mess up the program.)  
 You can also change the hotkeys by opening the hotkeys.json file and manually editing them there.  
 
+## Thanks for giving my program a chance  
+If you wanna be the coolest peeps, support me on ko-fi at:  
+https://ko-fi.com/tehwalruscode  
+
+Much Love <3
